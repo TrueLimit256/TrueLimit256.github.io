@@ -5,18 +5,12 @@ body {
     margin: 10% 10%;
 }   
 
-.exp-header {
+h3, h4 ,h5 {
     text-transform: uppercase;
     text-align: center;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-}
-
-.edu-header {
-    text-align: center;
-    text-transform: uppercase;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    font-size: 32 rem;
 }
 
 .wrapper {
